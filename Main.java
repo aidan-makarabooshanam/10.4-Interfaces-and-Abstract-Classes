@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println("Abstract Classes");
+        
         Tree tree = new Tree("Oak");
         Bush bush = new Bush("Rose");
         Cave cave = new Cave("Mysterious Cave", 50);
